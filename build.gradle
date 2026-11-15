@@ -2,7 +2,7 @@
 // через RetroFuturaGradle — современную замену ForgeGradle 1.2.
 plugins {
     id 'java'
-    id 'com.gtnewhorizons.retrofuturagradle' version '1.4.1'
+    id 'com.gtnewhorizons.retrofuturagradle' version '1.+'
 }
 
 group = 'kingdom'
