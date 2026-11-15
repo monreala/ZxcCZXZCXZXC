@@ -3,7 +3,7 @@ pluginManagement {
         maven {
             name = 'GTNH Maven'
             url = 'https://nexus.gtnewhorizons.com/repository/public/'
-            mavenContent { includeGroupByRegex 'com\\.gtnewhorizons\\..+' }
+           
         }
         gradlePluginPortal()
         mavenCentral()
